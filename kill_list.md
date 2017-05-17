@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Hard to read "ninja" code
+* Veuge parameter names
